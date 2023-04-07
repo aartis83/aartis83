@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Database Engineering
 - 💞️ I’m looking to collaborate on data projects
 - 📫 How to reach me +16502785939 / aartisrinivasan83@gmail.com
--ABOUT ME:
+
+ABOUT ME:
 Hi there! I'm Aarti, a data analyst by day and a coffee connoisseur by night. When I'm not analyzing data, you can find me sipping on a cup of coffee and brainstorming my next project.
 
 I'm a self-proclaimed Excel ninja and SQL samurai. My coding skills are sharper than a freshly brewed espresso shot, and my attention to detail is as strong as a triple-shot latte.
